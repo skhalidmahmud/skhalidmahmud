@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skhalidmahmud
+- 👋 Hi, I’m khalid [ @skhalidmahmud ]
 - 👀 I’m interested in programming & cooking
 - 🌱 I’m currently learning python for data science project
 - 💞️ I’m looking to collaborate on ... (I'm learning)
