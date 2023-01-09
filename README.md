@@ -1,8 +1,8 @@
+![I am student.](https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/289644110_544341383843673_2935416153480948341_n.jpg?stp=dst-jpg_p180x540&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeENZ6snyMbTUqJ8X1FaF1u1V31pLUb1aMhXfWktRvVoyDfU9GwZUdi2XUZ6tkpXOljXKgMyj_lVXSo6y6TwmTjg&_nc_ohc=MdSfbvQjxPcAX-3xGj4&_nc_ht=scontent.fdac24-1.fna&oh=00_AfD-N4dpKybbntdB7gpnGaMtc5saismsHacExrgDxRLXMw&oe=63BFC1D0)
+
 ### Hi there 👋, my name is Khalid Mahmud.
 
 #### I am student.
-
-![I am student.](https://www.facebook.com/photo/?fbid=544341387177006&set=a.107127190898430)
 
 I love traveling and deep sleep.
 
