@@ -5,10 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Learning;💪Hard+Worker;🤔Critical+Thinking&center=true">
 </p>
 
-### Hi there 👋, my name is Khalid Mahmud.
-
-#### I am student.
-
 I love traveling and deep sleep.
 
 Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
@@ -33,4 +29,7 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 
 ![GitHub metrics](https://metrics.lecoq.io/skhalidmahmud)  
 
-![Profile views](https://gpvc.arturio.dev/skhalidmahmud)  
+<p align="center">
+<a href="https://github.com/skhalidmahmud/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skhalidmahmud"></a>
+<a href="https://github.com/skhalidmahmud?tab=followers"><img src="https://img.shields.io/github/followers/skhalidmahmud?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
