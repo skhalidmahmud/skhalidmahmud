@@ -11,7 +11,7 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 
 - 🔭 I’m currently working on a project and more activity's. 
 
-- 🌱 I’m currently learning English, AI [PY] & social communication. 
+- 🌱 I’m currently learning English, AI/ML [PY] & social communication. 
 
 - 👯 I’m looking to collaborate on never ended memory's. 
 
