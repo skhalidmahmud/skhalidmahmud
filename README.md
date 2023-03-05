@@ -25,9 +25,9 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=skhalidmahmud&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skhalidmahmud)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skhalidmahmud)  
 
-![GitHub metrics](https://metrics.lecoq.io/skhalidmahmud)  
+![GitHub metrics](https://metrics.lecoq.io/skhalidmahmud) -->
 
 <p align="center">
 <a href="https://github.com/skhalidmahmud/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skhalidmahmud"></a>
