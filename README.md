@@ -1,4 +1,4 @@
-![This is Khalid.](https://lh3.googleusercontent.com/bU7L5TgHYwqY1eugE8WVl64cIOssQJdjVLCOVYrD9O8mhSmh5bIjQZ7C0HlWCai2LRd3RlsLezlZzBElJxkUrZLtWvqD58OpqjMPzHkOPq5P-8gFaGeYl0o9I3n65iXuLA=w1280)
+![This is Khalid.](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/LMC_20230603_144142_8.4.300.MP.jpg)
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+Khalid+Mahmud🙋‍♂️;HI,+I'M+Khalid+Mahmud👋&center=true" alt="Typing SVG" /><br/>
