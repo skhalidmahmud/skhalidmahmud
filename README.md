@@ -1,4 +1,4 @@
-![This is Khalid.](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/LMC_20230603_144142_8.4.300.MP.jpg)
+![This is Khalid.](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/khalidmahmud.jpg)
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+Khalid+Mahmud🙋‍♂️;HI,+I'M+Khalid+Mahmud👋&center=true" alt="Typing SVG" /><br/>
