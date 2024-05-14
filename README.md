@@ -1,4 +1,4 @@
-![This is Khalid.]([https://github.com/skhalidmahmud/skhalidmahmud/blob/main/Khalid-Mahmud_Size=Small.jpg](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/289644110_544341383843673_2935416153480948341_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeENZ6snyMbTUqJ8X1FaF1u1V31pLUb1aMhXfWktRvVoyDfU9GwZUdi2XUZ6tkpXOljXKgMyj_lVXSo6y6TwmTjg&_nc_ohc=q2rEo7wVh-QQ7kNvgFNJDCL&_nc_ht=scontent.fdac7-1.fna&oh=00_AYDSEf1xCpzXjNK6ha1Fk1Mc3SxUBdMKyOEbAQiwGSy-ow&oe=66490C90))
+![This is Khalid.](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/kokhono%20mukto%20hoy%20ni.jpeg)
  
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+Khalid+Mahmud🙋‍♂️;HI,+I'M+Khalid+Mahmud👋&center=true" alt="Typing SVG" /><br/>
