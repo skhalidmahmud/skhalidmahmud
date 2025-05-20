@@ -33,3 +33,4 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 <a href="https://github.com/skhalidmahmud/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skhalidmahmud"></a>
 <a href="https://github.com/skhalidmahmud?tab=followers"><img src="https://img.shields.io/github/followers/skhalidmahmud?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&" alt="skhalidmahmud" /></p>
