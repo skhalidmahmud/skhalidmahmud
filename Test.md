@@ -35,3 +35,10 @@
 [![](https://visitcount.itsvg.in/api?id=skhalidmahmud&icon=10&color=13)](https://visitcount.itsvg.in)
 
 </div>
+
+
+# test it
+
+## ⏱️ This Week I Spent My Time On
+
+![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=skhalidmahmud&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
