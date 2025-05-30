@@ -30,6 +30,23 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skhalidmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skhalidmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/skhalidmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khalidmahmudoff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/skhalidmahmud)   -->
 
+
+## ⏱️ This Week I Spent My Time On
+
+![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=skhalidmahmud&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
+
+
+<p align="center">
+<a href="https://github.com/skhalidmahmud/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skhalidmahmud"></a>
+<a href="https://github.com/skhalidmahmud?tab=followers"><img src="https://img.shields.io/github/followers/skhalidmahmud?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&" alt="skhalidmahmud" /></p> -->
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=skhalidmahmud&theme=neon&hide_border=false)<br/>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/skhalidmahmud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/skhalidmahmud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_khalidmahmud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skhalidmahmud) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Khalid-Mahmud-139) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/skhalidmahmud) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20959797) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DevwithKhalid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skhalidmahmud1@gmail.com) 
 
@@ -52,19 +69,3 @@ Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=skhalidmahmud)  
 
 ![GitHub metrics](https://metrics.lecoq.io/skhalidmahmud) -->
-
-
-## ⏱️ This Week I Spent My Time On
-
-![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=skhalidmahmud&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
-
-
-<p align="center">
-<a href="https://github.com/skhalidmahmud/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=skhalidmahmud"></a>
-<a href="https://github.com/skhalidmahmud?tab=followers"><img src="https://img.shields.io/github/followers/skhalidmahmud?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&" alt="skhalidmahmud" /></p> -->
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=skhalidmahmud&theme=neon&hide_border=false)<br/>
