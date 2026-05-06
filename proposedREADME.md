@@ -4,10 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+Khalid+Mahmud🙋‍♂️;FULL-STACK+DEVELOPER+🚀;CREATIVE+DESIGNER+🎨&center=true" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skhalidmahmud&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&theme=neon" alt="Streak Stats" />
-</p>
+![Views](https://komarev.com/ghpvc/?username=skhalidmahmud&color=green&style=flat-square&label=PROFILE+VIEWS)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&theme=neon)
 
 ---
 
@@ -51,17 +49,11 @@ I am a passionate **Full-Stack Developer** and **Creative Designer** who loves b
 
 # 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skhalidmahmud&show_icons=true&theme=neon&rank_icon=github" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skhalidmahmud&show_icons=true&theme=neon)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skhalidmahmud&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=skhalidmahmud&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=skhalidmahmud&hide_title=true&hide_border=true&bg_color=00000000&text_color=777" alt="WakaTime" />
-</p>
+![WakaTime](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=skhalidmahmud&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
 
 ---
 
