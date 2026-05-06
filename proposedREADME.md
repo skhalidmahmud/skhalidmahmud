@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skhalidmahmud&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=skhalidmahmud&theme=neon&hide_border=false" alt="Streak Stats" />
 </p>
 
@@ -72,8 +73,4 @@ I am a passionate **Full-Stack Developer** and **Creative Designer** who loves b
 <a href="https://instagram.com/_khalidmahmud"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
 <a href="https://youtube.com/@DevwithKhalid"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
 <a href="mailto:skhalidmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skhalidmahmud&color=green" alt="Views" />
 </p>
