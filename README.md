@@ -15,21 +15,6 @@
 
 <div align="center">
 
-<!-- 
-I love traveling and deep sleep.
-
-Skills: C / CPP / JAVA / PY // HTML / CSS and so more.
-
-- 🔭 I’m currently working on a project and more activity's. 
-
-- 🌱 I’m currently learning English, AI/ML [PY] & social communication. 
-
-- 👯 I’m looking to collaborate on never ended memory's. 
-
-- 💬 Ask me about where a'm I.  -->
-
-<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/skhalidmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/skhalidmahmud/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/skhalidmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khalidmahmudoff/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/skhalidmahmud)   -->
-
 
 ## ⏱️ This Week I Spent My Time On
 
