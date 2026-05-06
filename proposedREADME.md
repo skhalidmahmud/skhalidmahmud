@@ -65,5 +65,6 @@ I am a passionate **ML and Full-Stack Developer** who loves building intelligent
 <a href="https://facebook.com/skhalidmahmud"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
 <a href="https://instagram.com/_khalidmahmud"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
 <a href="https://youtube.com/@DevwithKhalid"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
+<a href="https://www.supportkori.com/khalidmahmud"><img src="https://img.shields.io/badge/Support_Me-SupportKori-%23FFDD00?style=for-the-badge&logo=coffee&logoColor=black" /></a>
 <a href="mailto:skhalidmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
