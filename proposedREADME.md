@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=skhalidmahmud&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=skhalidmahmud&theme=neon&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skhalidmahmud&theme=neon" alt="Streak Stats" />
 </p>
 
 ---
@@ -52,7 +52,7 @@ I am a passionate **Full-Stack Developer** and **Creative Designer** who loves b
 # 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skhalidmahmud&theme=neon&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skhalidmahmud&show_icons=true&theme=neon&rank_icon=github" alt="GitHub Stats" />
 </p>
 
 <p align="center">
