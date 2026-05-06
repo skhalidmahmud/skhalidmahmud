@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Khalid's Banner](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/khalid-aesthetic.png)
 
 <p align="center">
@@ -71,3 +73,5 @@ I am a passionate **ML and Full-Stack Developer** who loves building intelligent
 <a href="https://youtube.com/@DevwithKhalid"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
 <a href="mailto:skhalidmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 </p>
+
+</div>
