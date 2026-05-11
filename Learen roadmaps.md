@@ -24,7 +24,7 @@
 
   * [x] Basic Tags (headings, paragraphs, links, lists)
   * [x] Forms, Tables
-  * [ ] Semantic HTML
+  * [x] Semantic HTML
 * [ ] **Learn CSS**
 
   * [ ] Box Model
