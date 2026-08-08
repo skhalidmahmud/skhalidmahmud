@@ -81,11 +81,25 @@ Turning ideas into intelligent products.
 # 🌐 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/skhalidmahmud"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-<a href="https://facebook.com/skhalidmahmud"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
-<a href="https://instagram.com/_khalidmahmud"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
-<a href="https://youtube.com/@DevwithKhalid"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" /></a>
-<a href="mailto:skhalidmahmud1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/skhalidmahmud">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://skhalidmahmud.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/sponsors/skhalidmahmud">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="https://dev.to/skhalidmahmud">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" />
+  </a>
+
+  <a href="mailto:khalidfromdhaka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 </div>
