@@ -85,7 +85,7 @@ Turning ideas into intelligent products.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 
-  <a href="https://skhalidmahmud.github.io/">
+  <a href="https://mdkhalidmahmud.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=googlechrome&logoColor=white&style=for-the-badge" />
   </a>
 
