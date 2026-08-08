@@ -3,7 +3,7 @@
 ![Khalid's Banner](https://github.com/skhalidmahmud/skhalidmahmud/blob/main/khalid-aesthetic.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=ML+AND+FULL-STACK+DEVELOPER+🚀;CREATIVE+DESIGNER+🎨;PASSIONATE+LEARNER+📚&center=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1200&color=33F765&background=2507FF00&center=true&vCenter=true&width=700&lines=AI+Engineer+🚀;Backend+Developer+⚙️;FastAPI+%7C+Django+%7C+Machine+Learning;Building+AI-Powered+Products+🤖" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,25 +19,39 @@
 
 # 💫 About Me
 
-I am a passionate **ML and Full-Stack Developer** who loves building intelligent solutions and elegant user experiences. Currently, I'm bridging the gap between data-driven insights and scalable backend systems.
+AI Engineer and Backend Developer focused on building intelligent, scalable, and user-centered products.
 
-- 🔭 **Currently working on**: [ThinkOri](https://github.com/skhalidmahmud) — AI-Integrated Tutoring Platform.
-- 🌱 **Learning**: Advanced Machine Learning & Neural Networks.
-- 👯 **Looking to collaborate**: On ML-integrated Django projects.
-- 💬 **Ask me about**: Python, ML, Creative Design, or Backend Systems.
-- ⚡ **Fun fact**: I'm always one step ahead in the logic game.
+I specialize in **Python, FastAPI, Django, Machine Learning, and NLP**, with a strong interest in AI-powered applications and backend architecture.
+
+### 🚀 Currently Building
+- AI-Powered Learning Platforms
+- RAG Systems
+- Bengali NLP Solutions
+
+### 🔬 Notable Projects
+- ShobdoSearch
+- Gesture-to-Speech
+- RAG Knowledge Engine
+- Content Safety Shield
+
+### 🤝 Open to Collaborate
+AI Products • Backend Systems • Open Source
+
+### 💡 Motto
+Turning ideas into intelligent products.
 
 ---
 
 # 🛠️ Technical Skills
 
-| Category | Tools & Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Machine Learning** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Backend & APIs** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
-| **Frontend & Design** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **Tools & Media** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **AI & Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Backend Development** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
